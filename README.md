@@ -8,7 +8,7 @@ You can import the book anytime in the game with the <kbd>Import String</kbd> bu
 
 ![Import String screenshot](assets/import_string.png)
 
-Copy raw file as demonstrated above then paste the **gigantic wall of text** inside [Factorionomicon](FACTORIONOMICON.txt) in the propmpt, and voilà!
+Copy raw file as demonstrated above then paste the **gigantic string** inside [Factorionomicon](FACTORIONOMICON.txt) in the propmpt, and voilà!
 
 ![Copy raw file button](assets/copy_raw.png)
 
